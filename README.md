@@ -1,9 +1,9 @@
 ## How to install?
 
-Steps:
-1)Download the zip file & extract it.
-2)Open Terminal(mac/linux) / Command Line(windows).
-3)Use `cd` command and enter your file path to the extracted folder.
+Steps: <br />
+1)Download the zip file & extract it. <br />
+2)Open Terminal(mac/linux) / Command Line(windows). <br />
+3)Use `cd` command and enter your file path to the extracted folder. <br />
 4)Now run the command
 
 ### `npm install` 
