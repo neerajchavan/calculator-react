@@ -1,3 +1,18 @@
+## How to install?
+
+Steps:
+1)Download the zip file & extract it.
+2)Open Terminal(mac/linux) / Command Line(windows).
+3)Use `cd` command and enter your file path to the extracted folder.
+4)Now run the command
+
+### `npm install` 
+
+5)After installation is complete, run the following command
+
+### `npm start`
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
