@@ -68,31 +68,31 @@ render(){
     </div>
 
     <div className="row">
-      <button  onClick={()=> this.changeValue(1)}>1</button>
-      <button  onClick={()=> this.changeValue(2)}>2</button>
-      <button  onClick={()=> this.changeValue(3)}>3</button>
-      <button  onClick={()=> this.changeValue('+')}>+</button>
+      <button onClick={()=> this.changeValue(1)}>1</button>
+      <button onClick={()=> this.changeValue(2)}>2</button>
+      <button onClick={()=> this.changeValue(3)}>3</button>
+      <button onClick={()=> this.changeValue('+')}>+</button>
     </div>
 
     <div className='row'>
-      <button  onClick={()=> this.changeValue(4)}>4</button>
-      <button  onClick={()=> this.changeValue(5)}>5</button>
-      <button  onClick={()=> this.changeValue(6)}>6</button>
-      <button  onClick={()=> this.changeValue('-')}>-</button>
+      <button onClick={()=> this.changeValue(4)}>4</button>
+      <button onClick={()=> this.changeValue(5)}>5</button>
+      <button onClick={()=> this.changeValue(6)}>6</button>
+      <button onClick={()=> this.changeValue('-')}>-</button>
     </div>
 
     <div className='row'>
-      <button  onClick={()=> this.changeValue(7)}>7</button>
-      <button  onClick={()=> this.changeValue(8)}>8</button>
-      <button  onClick={()=> this.changeValue(9)}>9</button>
-      <button  onClick={()=> this.changeValue('*')}>*</button>
+      <button onClick={()=> this.changeValue(7)}>7</button>
+      <button onClick={()=> this.changeValue(8)}>8</button>
+      <button onClick={()=> this.changeValue(9)}>9</button>
+      <button onClick={()=> this.changeValue('*')}>*</button>
     </div>
 
     <div className='row'>
-      <button  onClick={()=> this.resetScreen()}>C</button>
-      <button  onClick={()=> this.changeValue(0)}>0</button>
-      <button  onClick={()=> this.addDot()}>.</button>
-      <button  onClick={()=> this.changeValue('/')}>/</button>
+      <button onClick={()=> this.resetScreen()}>C</button>
+      <button onClick={()=> this.changeValue(0)}>0</button>
+      <button onClick={()=> this.addDot()}>.</button>
+      <button onClick={()=> this.changeValue('/')}>/</button>
     </div>
 
     <div className='row'>
